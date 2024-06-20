@@ -1,0 +1,3 @@
+venv
+app/authentication/migrations
+app/core/__pycache__
